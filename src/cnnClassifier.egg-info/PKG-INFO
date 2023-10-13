@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/vedica1011/Kidney-Disease-classification
+Author: vedica1011
+Author-email: vedevupadhyay91@gmail.com
+Project-URL: Bug Tracker, https://github.com/vedica1011/Kidney-Disease-classification/issues
+
+# Kidney-Disease-classification
+I am creating for end to end deep learning project
